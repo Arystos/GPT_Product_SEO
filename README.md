@@ -26,13 +26,17 @@ To start using the CSV Description Bot, follow these simple steps:
 
 3. Install the required Python dependencies by running the following command:
 
+``
 pip install -r requirements.txt
+``
 
 4. Prepare your input CSV file, ensuring it follows the required format.
 
 5. Navigate to the file path you downloaded and run the bot by executing the following command:
 
+``
 python main.py
+``
 
 6. Sit back and let the bot do its magic! Once the process is complete, you will find the enhanced CSV file with improved descriptions and optimized short descriptions.
 
