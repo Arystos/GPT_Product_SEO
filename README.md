@@ -22,5 +22,30 @@ To start using the CSV Description Bot, follow these simple steps:
 
 1. Clone or download the repository to your local machine.
 
-2. Install the required Python dependencies by running the following command:
+2. Go to the file named generator.py and write inside your GPT API Key. 
+
+3. Install the required Python dependencies by running the following command:
+
+pip install -r requirements.txt
+
+4. Prepare your input CSV file, ensuring it follows the required format.
+
+5. Navigate to the file path you downloaded and run the bot by executing the following command:
+
+python main.py
+
+6. Sit back and let the bot do its magic! Once the process is complete, you will find the enhanced CSV file with improved descriptions and optimized short descriptions.
+
+## Contributions
+
+Contributions to the CSV Description Bot are welcome! If you encounter any issues, have ideas for improvements, or want to add new features, feel free to submit a pull request. Let's make this bot even better together! 🤝
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code freely.
+
+## Disclaimer
+
+Please note that while the CSV Description Bot aims to improve the quality and searchability of your content, the actual impact on search engine rankings and traffic may vary. It's recommended to continuously monitor and adjust your SEO strategies for optimal results.
+
 
